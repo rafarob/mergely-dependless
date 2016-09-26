@@ -1,6 +1,6 @@
 {
   "name": "mergely-dependless",
-  "description": 'A dependless version of https://github.com/rafarob/bower-mergely',
+  "description": "A clone of https://github.com/rafarob/bower-mergely with no dependencies defined",
   "version": "3.4.4",
   "main": [
     "./mergely.js",
