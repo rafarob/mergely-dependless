@@ -1,0 +1,13 @@
+{
+  "name": "mergely-dependless",
+  "description": 'A dependless version of https://github.com/rafarob/bower-mergely',
+  "version": "3.4.4",
+  "main": [
+    "./mergely.js",
+	"./mergely.css"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rafarob/mergely-dependless"
+  }
+}
